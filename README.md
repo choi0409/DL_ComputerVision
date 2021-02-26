@@ -1,3 +1,3 @@
-# [Practice] Deep Learning - Computer Vision (2021.02)   
+# [Practice] Object Detection & Segmentation Models (2021.02)   
 - Object Detection (FasterRCNN, SSD, YOLO, RetinaNet)   
 - Segmentation (Mast RCNN)   
